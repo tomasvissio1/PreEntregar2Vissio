@@ -1,0 +1,11 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color: aqua;
+    width: 90%;
+    margin: auto;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
